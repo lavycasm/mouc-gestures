@@ -5,6 +5,12 @@ a mouse gesture recognition program written in c and working alongside ahk
 works by reading the contents of config.ini and executing a temporary ahk  
 script when a gesture combo is matched.
 
+## Usage
+
+Holding MMB - starts a gesture  
+Holding MMB and pressing 'r' - reloads config 
+
+
 ## Building
 ```
 gcc main.c ini.c -o main.exe
