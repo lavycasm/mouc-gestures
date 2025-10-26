@@ -7,6 +7,8 @@ script when a gesture combo is matched.
 
 ## Usage
 
+Download [AutoHotkey](https://www.autohotkey.com)
+
 Holding MMB - starts a gesture  
 Holding MMB and pressing 'r' - reloads config 
 
